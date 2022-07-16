@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\practice-activity"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice-activity"
+	}
+}
